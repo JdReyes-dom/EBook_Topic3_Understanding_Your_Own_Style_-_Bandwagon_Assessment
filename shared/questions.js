@@ -125,9 +125,9 @@ const QUIZ_QUESTIONS = [
     subject: 'Analysis',
     question: 'Compare how the crowd and Dash\'s friend react to his unique style. What contrast does the author want readers to notice?',
     choices: {
-      a: 'The crowd is jealous and his friends are bored.',
-      b: 'The crowd values what is trendy, while his friends value real talent and friendship.',
-      c: 'The crowd is honest and his friends are untruthful.',
+      a: 'The crowd is jealous and his friend is bored.',
+      b: 'The crowd values what is trendy, while his friend value real talent and friendship.',
+      c: 'The crowd is honest and his friend is untruthful.',
       d: 'Both only care about technology.'
     },
     correct: 'b'
