@@ -41,7 +41,7 @@ const QUIZ_QUESTIONS = [
     id: 4,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'Everyone in your class suddenly wears the same brand, but you prefer your own style. Using the moral of the story, what should you do?',
+    question: 'Everyone in your class suddenly wears the same brand, but you prefer your own style. Learning from the story, what should you do?',
     choices: {
       a: 'Stay true to your own style and stay kind to others.',
       b: 'Copy everyone so you do not stand out.',
