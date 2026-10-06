@@ -43,7 +43,7 @@ const QUIZ_QUESTIONS = [
     subject: 'Application',
     question: 'Everyone in your class suddenly wears the same brand, but you prefer your own style. Learning from the story, what should you do?',
     choices: {
-      a: 'Stay true to your own style and stay kind to others.',
+      a: 'Stay true to your own style and always be kind to others.',
       b: 'Copy everyone so you do not stand out.',
       c: 'Make fun of classmates who wear the brand.',
       d: 'Wait for the trend to end and then copy the next one.'
