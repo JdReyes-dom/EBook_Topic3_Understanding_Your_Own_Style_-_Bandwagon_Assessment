@@ -59,7 +59,7 @@ const QUIZ_QUESTIONS = [
     question: 'What happened to the neon trend by the following week?',
     choices: {
       a: 'Everyone kept wearing neon forever.',
-      b: 'The students switched to a new trend and mocked anyone still in neon.',
+      b: 'The students switched to a new trend and mocked anyone still wearing neon.',
       c: 'The school banned neon clothes.',
       d: 'Dash started a new neon trend.'
     },
