@@ -112,10 +112,10 @@ const QUIZ_QUESTIONS = [
     subject: 'Analysis',
     question: 'What does Dash\'s hand-painted denim jacket most likely symbolize in the story?',
     choices: {
-      a: 'His original talent and identity.',
-      b: 'An outdated piece of clothing.',
-      c: 'A way to compete with his friends.',
-      d: 'His wish to be rich.'
+      a: 'His original talent and identity',
+      b: 'An outdated piece of clothing',
+      c: 'A way to compete with his friends',
+      d: 'His wish is to be rich'
     },
     correct: 'a'
   },
